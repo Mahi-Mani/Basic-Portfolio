@@ -1,17 +1,4 @@
-/*Styling contact.html*/
-#main{
-    margin-top:100px;
-    width:960px;
-    height:450px;
-    padding:25px;
-    background-color: aliceblue;
-    align:center;
-    margin-left: 250px;
-    border-color: blue;
-    border-style:solid;
-    border-color:grey;
-}
-
+/*Styling portfolio.html*/
 
 hr{
     color:#4aaaa5;
@@ -20,23 +7,93 @@ hr{
 h1{
     color:#4aaaa5;
 }
-#ubun{
-    padding:25px;
-}
-#swim{
-    padding:25px;
-}
-#party{
-    padding:25px;
-}
-#bike{
-    padding:25px;
-}
+
 .container1{
     padding:25px;
-    position:relative;
+    box-sizing:border-box;
+    margin-top:100px;
+    width:960px;
+    height:500px;
+    background-color: aliceblue;
+    align:center;
+    margin-left: 250px;
+    border-style:solid;
+    border-color:grey;
+    
 }
-.text1{
+#one{
+    margin-top: 10px;
+}
+#cric{
+    
+    position: relative;
+    width:150px;
+    height:100px;
+    padding:10px;
+}
+#ubun{
+
+    width:150px;
+    height:100px;
+    padding:10px;
+    position: relative;
+}
+#swim{
+    position: relative;
+    width:150px;
+    height:100px;
+    padding:10px;
+}
+#party{
+    position: relative;
+    width:150px;
+    height:100px;
+    padding:10px;
+}
+#bike{
+    position:relative;
+    width:150px;
+    height:100px;
+    padding:10px;
+
+}
+h4{
+    color:white;
+    background-color: #4aaaa5;
+    padding:1px; 
+    width:149px; 
+    text-align: center;
+}
+#id_cric{    
+    margin-top:-55px;
+    position: absolute;
+    margin-left:10px;
+}
+#id_ubun{
+    margin-top:-55px;
+    position: absolute;
+    margin-left:184px;
+
+}
+#id_swim{
+    margin-top:-55px;
+    position: absolute;
+    margin-left:10px;
+
+}
+#id_party{
+    margin-top:-55px;
+    position: absolute;
+    margin-left:184px;
+
+}
+#id_bike{
+    margin-top:-55px;
+    position: absolute;
+    margin-left:10px;
+
+}
+/* .text1{
     padding:50px;
     left:20px;
     text-align: center;
@@ -45,8 +102,22 @@ h1{
     width:225px;
     height:10px;
     position: absolute;
-}
+} */
+
+
 /*Styling Contact.html*/
+#main{
+    margin-top:100px;
+    width:960px;
+    height:500px;
+    padding:25px;
+    background-color: aliceblue;
+    align:center;
+    margin-left: 250px;
+    border-color: blue;
+    border-style:solid;
+    border-color:grey;
+}
 h2{
     color:#4aaaa5;
 }
@@ -54,7 +125,11 @@ form{
     padding-right:25px;
     padding-top=25px;
 }
-input{
+#fname{
+    width:100%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#email{
     width:100%;
     font-family:Arial, Helvetica, sans-serif;
 }
@@ -108,7 +183,7 @@ footer{
 #div_abtMe{
     margin-top:100px;
     width:960px;
-    height:450px;
+    height:500px;
     padding:25px;
     background-color: aliceblue;
     align:center;
