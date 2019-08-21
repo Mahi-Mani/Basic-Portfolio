@@ -1,3 +1,18 @@
+/*Styling contact.html*/
+#main{
+    margin-top:100px;
+    width:960px;
+    height:450px;
+    padding:25px;
+    background-color: aliceblue;
+    align:center;
+    margin-left: 250px;
+    border-color: blue;
+    border-style:solid;
+    border-color:grey;
+}
+
+
 hr{
     color:#4aaaa5;
 
@@ -122,5 +137,6 @@ a{
     color:#4aaaa5;
     text-decoration-color: #4aaaa5;
     padding:10px;
+    text-decoration:none !important;
 }
 
