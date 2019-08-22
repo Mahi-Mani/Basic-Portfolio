@@ -1,9 +1,9 @@
 # Basic Portfolio
 
 ## Site pictures
-![Site](one.png)
-![Site](two.png)
-![Site](three.png)
+![Site](one.jpg)
+![Site](two.jpg)
+![Site](three.jpg)
 
 ## Technologies Used
 - HTML : used to create elements on the DOM
